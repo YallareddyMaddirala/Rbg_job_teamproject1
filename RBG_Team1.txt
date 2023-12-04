@@ -2,5 +2,9 @@ Hi team, All of You
 
 plese respond guys.
 Send the data remote repo to local repo
+<<<<<<< HEAD
 
 hii Team123456
+=======
+Hello team
+>>>>>>> 4dad9ac755fc97c58558fb6cb6951882199d56e8
