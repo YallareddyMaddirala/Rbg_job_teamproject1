@@ -8,7 +8,7 @@ System.out.println("Calling Method Demo1");
 
 	}
 
-	public void run() 
+	public void runThePrograme() 
 	{
 System.out.println("run");
 
