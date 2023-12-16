@@ -10,7 +10,7 @@ System.out.println("Calling Method Demo1");
 
 	public void run() 
 	{
-System.out.println("Calling Method Demo2");
+System.out.println("run");
 
 	}
 
