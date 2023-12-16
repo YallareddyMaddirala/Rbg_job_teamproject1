@@ -8,4 +8,10 @@ System.out.println("Calling Method Demo1");
 
 	}
 
+	public void method2() 
+	{
+System.out.println("Calling Method Demo2");
+
+	}
+
 }
