@@ -1,12 +1,15 @@
-Hi team, All of You
+Summary:
+•	5+ years of Experience in the area of Software Testing.
+•	Expert in Design test scenarios, writing, Reviewing, Executing the Test cases and also preparing Test results & Bug reports.
+•	Involved in Regression, Functional, Integration and End to End Testing.
+•	5+ years’ experience in Selenium with Java SE (Core Java).
+•	Hands on Experience in Data Driven Frame Work with TestNG.
+•	Hands on Experience in API testing. 
+•	Hands on Experience in POST MAN tool for API testing. 
+•	Hands on Experience in Cucumber Frame Work                                                                  
+•	Having good knowledge in Software Development Life Cycle (SDLC), Testing methodologies and Testing Techniques.
+•	Experience in all stages of testing namely UI, Functional, System and Integration testing.
+   
 
-plese respond guys.
-Send the data remote repo to local repo
+Today Code is Updated : 16/12/2023 Sat
 
-
-hii Team123456
-
-Hello team
-
-
-code updated
